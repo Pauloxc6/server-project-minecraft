@@ -93,7 +93,7 @@ sudo ufw default deny incoming
   sudo ufw allow 22
   ```
 
-**Obs:** Eu gosto de sempre de mudar portas administrativas com ssh para outra mais alta, para evitar scripts automatizados que varrem a internet procurando por servidores vulneráveis. Não é 100% de garantia para já evita o ataque padrão.
+**Obs:** Eu gosto de sempre de mudar portas administrativas com ssh para outra mais alta, para evitar scripts automatizados que varrem a internet procurando por servidores vulneráveis. Não é 100% de garantia, mas já evita o ataque padrão.
 
 3. **Permitir a Porta do Minecraft:** O padrão é 25565.
 
@@ -108,6 +108,6 @@ sudo ufe allow 25565
  ```
 ---
   
-  Vou disponibilizar um script que eu mesmo desenvolvi para facilitar mais ainda o setup inicial do estara disponivel em [scripts/fw/fw.sh]
+  Vou disponibilizar um script que eu mesmo desenvolvi para facilitar mais ainda o setup inicial do firewall, estara disponivel em [scripts/fw/fw.sh]
 
 ---

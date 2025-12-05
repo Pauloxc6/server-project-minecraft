@@ -8,9 +8,9 @@
 Antes de sairmos baixando e configurando tudo precisamos vamos começar entendendo quais opções temos hoje no mercado.
 
 Hoje em dia exite uma vasta variedade de formas de você hospedar um servidor de minecraft.
-A melhor forma para um teste é o self hosting, agora se você quer algo que se torne publico e necessário, a utilização um sistema dedicado ou hospedar em cloud.
+A melhor forma para um teste é o self hosting, agora se você quer algo que se torne publico e necessário, a utilização de um sistema dedicado ou hospedar em cloud.
 
-Vamos passar por quase todas opções que disponíveis, você aprendendo a forma que ensinarei você conseguira implementar em qualquer servidor.
+Vamos passar por quase todas opções que estão disponíveis, você aprendendo a forma que ensinarei você conseguira implementar em qualquer servidor.
 
 ----
 
